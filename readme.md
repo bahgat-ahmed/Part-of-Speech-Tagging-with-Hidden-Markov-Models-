@@ -10,8 +10,6 @@ In this notebook, I've used the [Pomegranate](https://github.com/jmschrei/pomegr
 
 The notebook already contains some code to get me started. I have only needed to add some new functionality in the areas indicated to complete the project; I did not need to modify the included code beyond what is requested. Sections that begin with **'IMPLEMENTATION'** in the header indicate that I must provide code in the block that follows. Instructions was provided for me for each section, and the specifics of the implementation are marked in the code block with a `'TODO'` statement. 
 
-The following is exactly what was provided to me in the **read me** section of this project.
-
 ## The Road Ahead
 
 The section on Step 4 includes references & resources you can use to further explore HMM taggers.
