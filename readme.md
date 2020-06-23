@@ -1,6 +1,8 @@
 # Part-of-Speech-Tagging With Hidden Markov Model
 
-![GitHub Logo](_post-hmm.png)
+![](_post-hmm.png)
+
+A lot of this readme is taken from the project description made by Udacity and I have just made small modifications to their description and put it in this readme.
 
 ## Introduction
 
