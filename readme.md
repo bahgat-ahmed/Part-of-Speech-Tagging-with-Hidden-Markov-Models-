@@ -1,12 +1,12 @@
 # Part-of-Speech-Tagging With Hidden Markov Model
 
-![](_post-hmm.png)
+This is the project I have built in the first course of the **NLP Nanodegree**. The course name is **Introduction to Natural Language Processing**.
 
 A lot of this readme is taken from the project description made by Udacity and I have just made small modifications to their description and put it in this readme.
 
-## Introduction
+![](_post-hmm.png)
 
-This is the project I have built in the first course of the **NLP Nanodegree**. The course name is **Introduction to Natural Language Processing**.
+## Introduction
 
 In this notebook, I've used the [Pomegranate](https://github.com/jmschrei/pomegranate) library to build a hidden Markov model for part of speech tagging with a [universal tagset](http://www.petrovi.de/data/universal.pdf). Hidden Markov models have been able to achieve >96% tag accuracy with larger tagsets on realistic text corpora. Hidden Markov models have also been used for speech recognition and speech generation, machine translation, gene recognition for bioinformatics, and human gesture recognition for computer vision, and more.
 
