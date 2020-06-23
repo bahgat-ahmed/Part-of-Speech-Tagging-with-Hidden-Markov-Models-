@@ -1,5 +1,7 @@
 # Part-of-Speech-Tagging With Hidden Markov Model
 
+![GitHub Logo](/images/_post-hmm.png)
+
 ## Introduction
 
 This is the project I have built in the first course of the **NLP Nanodegree**. The course name is **Introduction to Natural Language Processing**
