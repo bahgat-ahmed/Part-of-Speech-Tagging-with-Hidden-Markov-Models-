@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is the project I have built in the first course of the **NLP Nanodegree**. The course name is **Introduction to Natural Language Processing**
+This is the project I have built in the first course of the **NLP Nanodegree**. The course name is **Introduction to Natural Language Processing**.
 
 In this notebook, I've used the [Pomegranate](https://github.com/jmschrei/pomegranate) library to build a hidden Markov model for part of speech tagging with a [universal tagset](http://www.petrovi.de/data/universal.pdf). Hidden Markov models have been able to achieve >96% tag accuracy with larger tagsets on realistic text corpora. Hidden Markov models have also been used for speech recognition and speech generation, machine translation, gene recognition for bioinformatics, and human gesture recognition for computer vision, and more.
 
@@ -12,7 +12,7 @@ The notebook already contains some code to get me started. I have only needed to
 
 The following is exactly what was provided to me in the **read me** section of this project.
 
-# The Road Ahead
+## The Road Ahead
 
 The section on Step 4 includes references & resources you can use to further explore HMM taggers.
 
