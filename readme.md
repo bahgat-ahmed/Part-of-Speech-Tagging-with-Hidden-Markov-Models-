@@ -1,6 +1,6 @@
 # Part-of-Speech-Tagging With Hidden Markov Model
 
-![GitHub Logo](/images/_post-hmm.png)
+![GitHub Logo](_post-hmm.png)
 
 ## Introduction
 
