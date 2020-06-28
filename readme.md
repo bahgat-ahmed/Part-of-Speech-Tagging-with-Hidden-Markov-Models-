@@ -1,4 +1,4 @@
-# Part-of-Speech-Tagging With Hidden Markov Model
+# Part-of-Speech-Tagging with Hidden Markov Model
 
 This is the project I have built in the first course of the **NLP Nanodegree**. The course name is **Introduction to Natural Language Processing**.
 
